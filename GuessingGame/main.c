@@ -30,10 +30,10 @@ int main() {
 	while (playAgain == 'y')
 	{
 		printf("Please choose the game level:  \n");
-		printf("1 - Easy(20 rounds)\n");
-		printf("2 - Moderate(15 rounds)\n");
-		printf("3 - Hard(10 rounds)\n");
-		printf("4 - Crazy(random number of rounds 5-25)\n\n");
+		printf("1 - Easy(20 rounds) \n");
+		printf("2 - Moderate(15 rounds) \n");
+		printf("3 - Hard(10 rounds) \n");
+		printf("4 - Crazy(random number of rounds 5-25) \n\n");
 
 		cleanBuffer();
 		do {
