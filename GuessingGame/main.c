@@ -54,7 +54,7 @@ int main() {
 			gameProgress(HARD);
 		}
 		else if (userChoice == Crazy) {
-			printf("You are in CRAZY mode\n");
+			printf("You are in CRAZY mode  \n");
 			gameProgress(CRAZY);
 		}
 		do
